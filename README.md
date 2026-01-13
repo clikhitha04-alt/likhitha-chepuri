@@ -88,5 +88,5 @@ in building scalable enterprise and cloud-native applications.
 ---
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: yourmail@email.com
+- LinkedIn: www.linkedin.com/in/likhitha-chepuri-bb52813a5
+- Email: clikhitha04@gmail.com
