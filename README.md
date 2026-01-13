@@ -1,4 +1,4 @@
-# Likhitha Chepuru
+# Likhitha Chepuri
 
 Lead / Senior Java Full Stack Developer with **8+ years of experience**
 in building scalable enterprise and cloud-native applications.
